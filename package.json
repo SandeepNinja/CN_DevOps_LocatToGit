@@ -1,0 +1,27 @@
+{
+  "name": "local_to_git",
+  "version": "1.0.0",
+  "description": "Local to git repository transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sandeep",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepNinja/CN_DevOps_LocalToGit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SandeepNinja/CN_DevOps_LocalToGit/issues"
+  },
+  "homepage": "https://github.com/SandeepNinja/CN_DevOps_LocalToGit#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
